@@ -1,2 +1,2 @@
 # Anti-Cheat
-a better anti cheat for pockermine
+a better anti cheat for pocketmine
